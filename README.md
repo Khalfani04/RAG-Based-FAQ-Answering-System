@@ -1,11 +1,9 @@
-# RAG-Based-FAQ-Answering-System
-A Retrieval-Augmented Generation (RAG) system that answers questions about the **Honours Bachelor of Artificial Intelligence (HBAI) program at Durham College
-
 # 🔍 RAG-Based FAQ Answering System
 **Project 10 — NLP Course | Durham College HBAI Program**
 
 A Retrieval-Augmented Generation (RAG) system that answers natural language questions about the Honours Bachelor of Artificial Intelligence (HBAI) program at Durham College. The system retrieves relevant context from a curated knowledge base and generates grounded answers using a fully local LLM — no API key required.
-
+## 📊 Evaluation Report
+[View the full evaluation report here](https://khalfani04.github.io/RAG-Based-FAQ-Answering-System/)
 ---
 
 ## 🧠 How It Works
