@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) system that answers natural language ques
 ## 📊 Evaluation Report
 [View the full evaluation report here](https://khalfani04.github.io/RAG-Based-FAQ-Answering-System/)
 
-##Link To Brief Walkthrough: https://youtu.be/TFrJd40QncI 
+Link To Brief Walkthrough: https://youtu.be/TFrJd40QncI 
 ---
 
 ## 🧠 How It Works
